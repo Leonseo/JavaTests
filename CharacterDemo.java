@@ -9,7 +9,7 @@ import java.util.Scanner;
   3. Пароль должен содержать не менее 2 цифр.
  * 
  */
-public class RegexDemo {
+public class CharacterDemo {
  
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
